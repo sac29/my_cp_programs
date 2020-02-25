@@ -83,16 +83,4 @@ public class DeleteNode
     }
 }
 
-class LNode
-{
-
-    int data;
-    Node next;
-
-    LNode(int d)
-    {
-        data = d;
-        next = null;
-    }
-}
 
